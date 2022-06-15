@@ -26,7 +26,7 @@ Interested in contributing to this project? Thanks so much for your interest! We
 Subrat Kumar Sahu
 * [instagram](https://www.instagram.com/sahu.subrat/)
 * [LinkedIn](https://www.linkedin.com/in/subrat-kumar-sahu-483059159/)
-* [GitHub](https://github.com/Subrat1312)
+* [facebook](https://www.facebook.com/subrat.sahu.7140)
 
 <h1>⚠️ License</h1>
 The project is free and open-source software licensed under the GNU General Public License v3.0. and distributed under Creative Commons license (CC BY-SA 4.0 International).
