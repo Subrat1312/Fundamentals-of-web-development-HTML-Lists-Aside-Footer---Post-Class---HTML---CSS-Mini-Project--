@@ -33,4 +33,4 @@ The project is free and open-source software licensed under the GNU General Publ
 
 <br />
 
-<h1>💛</h1>
+<h1>💛 End</h1>
